@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Salva</h1>
-  <p><strong>Telecommunications Engineer | MSc Student | Electronics & Machine Vision Specialist</strong></p>
+  <p><strong>Telecommunications Engineer | MSc Student | Electronics & RF</strong></p>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 
 I am a **Telecommunications Engineer** specialized in **Electronic Systems** from the Universitat Politècnica de València (UPV). Currently, I am pursuing my **Master's degree in Telecommunications Engineering**. 
 
-My technical background is focused on the intersection of **hardware design**, **RF engineering**, and **industrial automation** through **Machine Vision**. I am passionate about solving complex technical challenges, from high-frequency circuit optimization to implementing Deep Learning models for quality control.
+My technical background is focused on the intersection of **hardware design**, **RF engineering**, and **industrial automation** through **Machine Vision**. I am passionate about solving complex technical challenges, from high-frequency circuit optimization to implementing Machine Vision algorithms for quality control.
 
 ---
 
@@ -49,7 +49,7 @@ My technical background is focused on the intersection of **hardware design**, *
 Development of a hybrid system (Classical Vision + Deep Learning) for real-time defect detection in electronic displays.
 - **Tech**: LabVIEW, Cognex, Sony IMX sensors.
 
-#### 📈 [Function Generator PCB](https://github.com/smarsel0/Function-Generator-PCB-Design)
+#### 📟 [Function Generator PCB](https://github.com/smarsel0/Function-Generator-PCB-Design)
 Complete design of a modular function generator (1kHz - 100kHz) with hierarchical schematics and industrial layout.
 - **Tech**: OrCAD Capture, PCB Editor, PSpice.
 
@@ -57,15 +57,6 @@ Complete design of a modular function generator (1kHz - 100kHz) with hierarchica
 Design and optimization of a 2.45 GHz Low Noise Amplifier (LNA) transitioning from ideal to real commercial components.
 - **Tech**: AWR Microwave Office, Infineon Ultra-Low Noise BJTs.
 
-#### 🎵 [DSP Audio Effects](https://github.com/smarsel0/Chorus-Flanger-DSP-Implementation)
+#### 🎛️ [DSP Audio Effects](https://github.com/smarsel0/Chorus-Flanger-DSP-Implementation)
 Baremetal C implementation of Chorus and Flanger effects using circular buffers and linear interpolation for real-time audio.
 - **Tech**: C, MATLAB, DSP Frameworks.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smarsel0&show_icons=true&theme=radical" alt="Salva's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarsel0&layout=compact&theme=radical" alt="Top Languages" />
-</div>
