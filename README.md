@@ -5,7 +5,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a **Telecommunications Engineer** specialized in **Electronic Systems** from the Universitat Politècnica de València (UPV). Currently, I am pursuing my **Master's degree in Telecommunications Engineering**. 
 
