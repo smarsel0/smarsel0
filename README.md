@@ -13,7 +13,7 @@ My technical background is focused on the intersection of **hardware design**, *
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 <table align="center">
   <tr>
@@ -43,7 +43,7 @@ My technical background is focused on the intersection of **hardware design**, *
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 #### 👁️ [Industrial Machine Vision Inspection](https://github.com/smarsel0/TFG_Vision_Artificial)
 Development of a hybrid system (Classical Vision + Deep Learning) for real-time defect detection in electronic displays.
