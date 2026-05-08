@@ -33,6 +33,7 @@ My technical background is focused on the intersection of **hardware design**, *
     </td>
     <td align="center" width="33%">
       <strong>Embedded & Code</strong><br>
+      ESP-IDF & FreeRTOS<br>
       Baremetal C for DSPs<br>
       Python & MATLAB<br>
       Verilog (FPGA)<br>
@@ -44,6 +45,10 @@ My technical background is focused on the intersection of **hardware design**, *
 ---
 
 ### Highlighted Projects
+
+#### 🔌 [ESP32 Embedded Systems](https://github.com/smarsel0/ESP32-Projects)
+Learning journey through embedded systems and RTOS. Implementation of concurrent tasks, peripheral control, and advanced logging.
+- **Tech**: ESP-IDF, FreeRTOS, C, GPIO/UART.
 
 #### 👁️ [Industrial Machine Vision Inspection](https://github.com/smarsel0/TFG_Vision_Artificial)
 Development of a hybrid system (Classical Vision + Deep Learning) for real-time defect detection in electronic displays.
@@ -60,3 +65,9 @@ Design and optimization of a 2.45 GHz Low Noise Amplifier (LNA) transitioning fr
 #### 🎛️ [DSP Audio Effects](https://github.com/smarsel0/Chorus-Flanger-DSP-Implementation)
 Baremetal C implementation of Chorus and Flanger effects using circular buffers and linear interpolation for real-time audio.
 - **Tech**: C, MATLAB, DSP Frameworks.
+
+---
+
+<div align="center">
+  <p><i>"Engineering is the art of organizing and directing men and controlling the forces and materials of nature for the benefit of the human race."</i></p>
+</div>
